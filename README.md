@@ -1,4 +1,4 @@
-# WhatsApp-like Chat Application
+# WhatsApp Chat Application
 
 ## Overview
 

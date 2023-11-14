@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     padding: 10,
     alignItems: 'center',
+    
   },
   avatar: {
     width: 50,
@@ -33,7 +34,7 @@ const styles = StyleSheet.create({
     flex: 1,
     borderBottomWidth:StyleSheet.hairlineWidth,
     borderBottomColor:'lightgrey',
-    marginBottom:1
+
   },
   headerContainer: {
     flexDirection: 'row',
@@ -45,6 +46,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   time: {
+    marginRight:6,
     color: '#888',
   },
   subTitle: {
