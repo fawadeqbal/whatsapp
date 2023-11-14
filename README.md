@@ -11,8 +11,7 @@ This is a simple React Native chat application that resembles the chat interface
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](assets/screenshot.png)
 
 ## Getting Started
 
