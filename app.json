@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "whatsapp",
-    "slug": "whatsapp",
+    "name": "WhatsApp",
+    "slug": "WhatsApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/whatsapp.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/whatsapp.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -24,7 +24,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/whatsapp.png"
     }
   }
 }
